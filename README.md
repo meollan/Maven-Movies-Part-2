@@ -8,9 +8,12 @@ In this case our database includes 16 related tables , containing information
 
 ![image](https://github.com/user-attachments/assets/a8fcef2e-6222-4601-a88f-703b177ad448)
 
-Task #1 “Can you pull for me a list of each film we have in inventory? I would like to see the film’s title, description , and the store_id value associated with each item, and its inventory_id .
+Task #1 “Can you pull for me a list of each film we have in inventory? I would like to see the film’s title, description , and the store_id value associated with each item, and its inventory_id.
+![image](https://github.com/user-attachments/assets/836e3ef5-7f0d-4ce3-876b-abf8c5fd74d9)
 
 Task #2 “One of our investors is interested in the films we carry and how many actors are listed for each film title. Can you pull a list of all titles, and figure out how many actors are associated with each title?
+![image](https://github.com/user-attachments/assets/0bb3e6bd-6979-4ac4-b26d-2a7c807c47d0)
+
 
 Task #3 “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors , with each title that they appear in. Could you please pull that for me?”
 
