@@ -8,3 +8,9 @@ The second part of the course focuses on the CASE statement. This is just like a
 In this case our database includes 16 related tables , containing information
 
 ![image](https://github.com/user-attachments/assets/a8fcef2e-6222-4601-a88f-703b177ad448)
+
+The task of the second part are as follows:
+Task #1:“I’d like to know which store each customer goes to, and whether or not they are active.
+Could you pull a list of first and last names of all customers , and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
+![image](https://github.com/user-attachments/assets/961c8c11-1532-46fb-a95e-b776f76b9cd7)
+
