@@ -2,20 +2,8 @@ Welcome! I'm Meollan Tagle, an Industrial Engineer transitioning into Data Analy
 
 The training I have is in UDEMY lead by Maven with a title SQL for Data Analysis: Beginner MySQL Business Intelligence
 
-The second part of the course focuses on the CASE statement. This is just like a if-else statement and can be used in cleaning the data.
-
+The second part of the course focuses on the JOINS. This focuses on the relational database.
 
 In this case our database includes 16 related tables , containing information
 
 ![image](https://github.com/user-attachments/assets/a8fcef2e-6222-4601-a88f-703b177ad448)
-
-The task of the second part are as follows:
-
-Task #1:“I’d like to know which store each customer goes to, and whether or not they are active.
-Could you pull a list of first and last names of all customers , and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
-![image](https://github.com/user-attachments/assets/961c8c11-1532-46fb-a95e-b776f76b9cd7)
-
-Task #2: “I’m curious how many inactive customers we have at each store. Could you please create a table to count the number of customers broken down by store_id (in rows), and active status (in columns)?”
-
-![image](https://github.com/user-attachments/assets/9f36f352-1c54-4536-bf67-fe130360d0ed)
-
